@@ -47,8 +47,6 @@ Running:
 * Client code entry point: index.html
 
 References:
-* Kurento official site -https://www.kurento.org/
-* https://webrtc.org/
 * Fabric js - http://fabricjs.com/docs/fabric.Canvas.html
 * The noun project icons -https://thenounproject.com/
 * Presentation ppt to png images-
